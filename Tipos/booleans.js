@@ -1,9 +1,8 @@
 "use strict";
-// Iniciamos una funcion autoivocada
 (() => {
     let isSuperman = true;
     let isCapitanAmerica = false;
-    isCapitanAmerica = isSuperman ? true : false; // Si no es booleano da error..
+    isCapitanAmerica = isSuperman ? true : false;
     let messiIsExtraterrestre = true;
     console.log(isCapitanAmerica);
 })();
