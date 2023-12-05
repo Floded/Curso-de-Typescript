@@ -7,6 +7,7 @@
     return;
   };
 
-  console.log(funcionSinRetorno);
-  console.log(otraFuncionSinRetorno);
+  const a = funcionSinRetorno();
+
+  console.log(a);
 })();
