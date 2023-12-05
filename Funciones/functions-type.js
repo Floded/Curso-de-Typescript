@@ -14,3 +14,4 @@
     myFunction = returnText;
     console.log(returnText()); // Como vemos esta funcion no recibe parametros y retorna un string por eso typescript no se queja...!
 })();
+//# sourceMappingURL=functions-type.js.map

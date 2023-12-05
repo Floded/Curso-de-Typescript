@@ -7,3 +7,4 @@
     console.log(numbers);
     names.forEach((name) => console.log(name.toUpperCase()));
 })();
+//# sourceMappingURL=arrays.js.map

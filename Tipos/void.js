@@ -10,3 +10,4 @@
     console.log(funcionSinRetorno);
     console.log(otraFuncionSinRetorno);
 })();
+//# sourceMappingURL=void.js.map

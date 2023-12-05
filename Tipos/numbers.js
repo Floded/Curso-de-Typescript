@@ -10,3 +10,4 @@
         console.log("Low win");
     }
 })();
+//# sourceMappingURL=numbers.js.map

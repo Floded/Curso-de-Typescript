@@ -12,3 +12,4 @@
     };
     console.log({ ironMan });
 })();
+//# sourceMappingURL=objects.js.map

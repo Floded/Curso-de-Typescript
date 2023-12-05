@@ -13,3 +13,4 @@
     };
     console.log({ ironMan });
 })();
+//# sourceMappingURL=type.js.map

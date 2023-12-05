@@ -11,3 +11,4 @@
     let hero = fullName("Batman", 58);
     console.log({ hero });
 })();
+//# sourceMappingURL=args-default.js.map

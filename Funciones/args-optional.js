@@ -6,3 +6,4 @@
     let hero = fullName("Batman");
     console.log({ hero });
 })();
+//# sourceMappingURL=args-optional.js.map
