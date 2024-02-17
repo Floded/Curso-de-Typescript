@@ -18,5 +18,5 @@
   const apocalipsis1 = Apocalipsis.llamarApocalipsis();
   apocalipsis1.changeName("Wolverine");
 
-  console.log(apocalipsis1); // No importa cuantas variables se creen todas van a ser la misma instancia!!
+  // console.log(apocalipsis1); // No importa cuantas variables se creen todas van a ser la misma instancia!!
 })();
